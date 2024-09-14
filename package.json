@@ -1,12 +1,18 @@
 {
-  "name": "project",
+  "name": "chai-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend Project Learning from Hitesh Chaudhary chai aur code",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Nihir Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
