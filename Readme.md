@@ -1,2 +1,2 @@
 Nihir Jain 
-From Bankoraa
+From Bankora
